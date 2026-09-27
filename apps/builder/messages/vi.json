@@ -6695,5 +6695,39 @@
     "openZaloGroup": "Mở nhóm Zalo",
     "openZalo": "Mở Zalo",
     "openMessenger": "Mở Messenger"
+  },
+  "onePersonCompany": {
+    "nav": "Công ty một người",
+    "title": "Công ty một người",
+    "description": "Trang giữ chỗ của Community Edition cho gói giá cố định hàng tháng và widget ROI. Không có khoản nào được tính phí ở đây.",
+    "bannerTitle": "Track B spike / not production billing",
+    "bannerDescription": "Trang này không tính phí ai và không kết nối bộ xử lý thanh toán. Các con số là giả định sản phẩm từ lộ trình Track B hoặc được đánh dấu là chưa đo.",
+    "planTitle": "Giá cố định",
+    "planPrice": "RM {amount} / tháng",
+    "planAssumption": "Giả định sản phẩm từ lộ trình Track B. Đây không phải giá đang áp dụng và không tạo gói đăng ký.",
+    "planStatus": "Chưa đăng ký",
+    "annualized": "Giá cố định quy năm: RM {amount}",
+    "roadmapYearOne": "Số năm 1 trên lộ trình: RM {amount}",
+    "amountMyr": "RM {amount}",
+    "roiTitle": "Widget ROI",
+    "roiDescription": "Các trường này là hợp đồng mà phần nối thanh toán sau này sẽ điền. Spike này để chúng chưa được đo.",
+    "notMeasured": "Chưa đo",
+    "hoursSaved": "Giờ tiết kiệm",
+    "ownerHourlyCost": "Chi phí theo giờ của chủ sở hữu",
+    "conversationsHandled": "Hội thoại đã xử lý",
+    "humanEscalations": "Chuyển cho người",
+    "channelsInUse": "Kênh đang dùng",
+    "exampleTitle": "Ví dụ minh họa",
+    "exampleNote": "Chỉ là ví dụ tính toán. Các số này không phải mức dùng của workspace này.",
+    "exampleMath": "{hours} giờ × RM {rate}/giờ = RM {avoided} chi phí lao động tránh được − RM {flat} giá cố định = RM {net} ròng",
+    "comparisonTitle": "So sánh năm 1 trên lộ trình",
+    "comparisonNote": "Tổng năm 1 xấp xỉ được chép từ lộ trình Track B. Đó là giả định sản phẩm, không phải hóa đơn.",
+    "comparison": {
+      "tenX": "10X",
+      "manychat": "ManyChat",
+      "wati": "Wati",
+      "respondIo": "Respond.io",
+      "mampuAi": "Mampu AI"
+    }
   }
 }

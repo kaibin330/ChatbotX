@@ -6695,5 +6695,39 @@
     "openZaloGroup": "打开 Zalo 群组",
     "openZalo": "打开 Zalo",
     "openMessenger": "打开 Messenger"
+  },
+  "onePersonCompany": {
+    "nav": "一人公司",
+    "title": "一人公司",
+    "description": "Community Edition 的占位页，用于展示固定月费和 ROI 小组件。此处不会向任何人收费。",
+    "bannerTitle": "Track B spike / not production billing",
+    "bannerDescription": "此页面不向任何人收费，也未连接支付处理商。数字来自 Track B 路线图中的产品假设，或标为尚未度量。",
+    "planTitle": "固定价格",
+    "planPrice": "RM {amount} / 月",
+    "planAssumption": "来自 Track B 路线图的产品假设。这不是生效价格，也不会创建订阅。",
+    "planStatus": "未订阅",
+    "annualized": "按年折算的固定价格：RM {amount}",
+    "roadmapYearOne": "路线图第一年数字：RM {amount}",
+    "amountMyr": "RM {amount}",
+    "roiTitle": "ROI 小组件",
+    "roiDescription": "这些字段是日后接入计费时要填写的契约。此 spike 将它们留为尚未度量。",
+    "notMeasured": "尚未度量",
+    "hoursSaved": "节省小时",
+    "ownerHourlyCost": "负责人时薪",
+    "conversationsHandled": "已处理对话",
+    "humanEscalations": "人工升级",
+    "channelsInUse": "在用渠道",
+    "exampleTitle": "示意示例",
+    "exampleNote": "仅为演算示例。这些数字不是此工作区的用量。",
+    "exampleMath": "{hours} 小时 × RM {rate}/小时 = 避免的人工成本 RM {avoided} − 固定价格 RM {flat} = 净额 RM {net}",
+    "comparisonTitle": "路线图第一年对比",
+    "comparisonNote": "从 Track B 路线图抄录的大约第一年总额。它们是产品假设，不是账单。",
+    "comparison": {
+      "tenX": "10X",
+      "manychat": "ManyChat",
+      "wati": "Wati",
+      "respondIo": "Respond.io",
+      "mampuAi": "Mampu AI"
+    }
   }
 }

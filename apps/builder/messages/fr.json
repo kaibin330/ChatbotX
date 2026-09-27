@@ -6695,5 +6695,39 @@
     "openZaloGroup": "Ouvrir le groupe Zalo",
     "openZalo": "Ouvrir Zalo",
     "openMessenger": "Ouvrir Messenger"
+  },
+  "onePersonCompany": {
+    "nav": "Entreprise unipersonnelle",
+    "title": "Entreprise unipersonnelle",
+    "description": "Un placeholder Community Edition pour un tarif mensuel forfaitaire et des widgets de ROI. Rien n'est facturé ici.",
+    "bannerTitle": "Track B spike / not production billing",
+    "bannerDescription": "Cette page ne facture personne et n'est pas reliée à un prestataire de paiement. Les chiffres sont des hypothèses produit de la feuille de route Track B, ou marqués comme non mesurés.",
+    "planTitle": "Prix forfaitaire",
+    "planPrice": "RM {amount} / mois",
+    "planAssumption": "Hypothèse produit issue de la feuille de route Track B. Ce n'est pas un prix en production et aucun abonnement n'est créé.",
+    "planStatus": "Non abonné",
+    "annualized": "Prix forfaitaire annualisé : RM {amount}",
+    "roadmapYearOne": "Chiffre année 1 de la feuille de route : RM {amount}",
+    "amountMyr": "RM {amount}",
+    "roiTitle": "Widgets de ROI",
+    "roiDescription": "Ces champs sont le contrat qu'un branchement de facturation ultérieur remplirait. Ce spike les laisse non mesurés.",
+    "notMeasured": "Non mesuré",
+    "hoursSaved": "Heures économisées",
+    "ownerHourlyCost": "Coût horaire du propriétaire",
+    "conversationsHandled": "Conversations traitées",
+    "humanEscalations": "Escalades humaines",
+    "channelsInUse": "Canaux utilisés",
+    "exampleTitle": "Exemple illustratif",
+    "exampleNote": "Exemple de calcul uniquement. Ces chiffres ne sont pas l'usage de cet espace de travail.",
+    "exampleMath": "{hours} heures × RM {rate}/heure = RM {avoided} de travail évité − RM {flat} de prix forfaitaire = RM {net} net",
+    "comparisonTitle": "Comparaison année 1 de la feuille de route",
+    "comparisonNote": "Totaux annuels approximatifs repris de la feuille de route Track B. Ce sont des hypothèses produit, pas des factures.",
+    "comparison": {
+      "tenX": "10X",
+      "manychat": "ManyChat",
+      "wati": "Wati",
+      "respondIo": "Respond.io",
+      "mampuAi": "Mampu AI"
+    }
   }
 }

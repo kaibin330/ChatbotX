@@ -6695,5 +6695,39 @@
     "openZaloGroup": "Zalo-Gruppe öffnen",
     "openZalo": "Zalo öffnen",
     "openMessenger": "Messenger öffnen"
+  },
+  "onePersonCompany": {
+    "nav": "Ein-Personen-Unternehmen",
+    "title": "Ein-Personen-Unternehmen",
+    "description": "Ein Community-Edition-Platzhalter für einen festen Monatspreis und ROI-Widgets. Hier wird nichts berechnet.",
+    "bannerTitle": "Track B spike / not production billing",
+    "bannerDescription": "Diese Seite berechnet niemandem etwas und ist nicht mit einem Zahlungsanbieter verbunden. Zahlen sind Produktannahmen aus der Track-B-Roadmap oder als nicht gemessen markiert.",
+    "planTitle": "Pauschalpreis",
+    "planPrice": "RM {amount} / Monat",
+    "planAssumption": "Produktannahme aus der Track-B-Roadmap. Das ist kein Live-Preis, und es wird kein Abonnement angelegt.",
+    "planStatus": "Nicht abonniert",
+    "annualized": "Pauschalpreis aufs Jahr gerechnet: RM {amount}",
+    "roadmapYearOne": "Roadmap-Jahr-1-Zahl: RM {amount}",
+    "amountMyr": "RM {amount}",
+    "roiTitle": "ROI-Widgets",
+    "roiDescription": "Diese Felder sind der Vertrag, den eine spätere Abrechnungsanbindung füllen würde. Dieser Spike lässt sie ungemessen.",
+    "notMeasured": "Nicht gemessen",
+    "hoursSaved": "Eingesparte Stunden",
+    "ownerHourlyCost": "Stundensatz der Inhaberin oder des Inhabers",
+    "conversationsHandled": "Bearbeitete Unterhaltungen",
+    "humanEscalations": "Menschliche Eskalationen",
+    "channelsInUse": "Genutzte Kanäle",
+    "exampleTitle": "Illustratives Beispiel",
+    "exampleNote": "Nur ein Rechenbeispiel. Diese Zahlen sind nicht die Nutzung dieses Workspace.",
+    "exampleMath": "{hours} Stunden × RM {rate}/Stunde = RM {avoided} vermiedene Arbeit − RM {flat} Pauschalpreis = RM {net} netto",
+    "comparisonTitle": "Roadmap-Vergleich Jahr 1",
+    "comparisonNote": "Ungefähre Jahressummen aus der Track-B-Roadmap. Es sind Produktannahmen, keine Rechnungen.",
+    "comparison": {
+      "tenX": "10X",
+      "manychat": "ManyChat",
+      "wati": "Wati",
+      "respondIo": "Respond.io",
+      "mampuAi": "Mampu AI"
+    }
   }
 }

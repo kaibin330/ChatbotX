@@ -6695,5 +6695,39 @@
     "openZaloGroup": "Zaloグループを開く",
     "openZalo": "Zaloを開く",
     "openMessenger": "Messengerを開く"
+  },
+  "onePersonCompany": {
+    "nav": "ひとり会社",
+    "title": "ひとり会社",
+    "description": "月額定額と ROI ウィジェットのための Community Edition プレースホルダーです。ここでは請求しません。",
+    "bannerTitle": "Track B spike / not production billing",
+    "bannerDescription": "このページは誰にも請求せず、決済代行にも接続していません。数値は Track B ロードマップの製品仮定か、未計測として示しています。",
+    "planTitle": "定額",
+    "planPrice": "RM {amount} / 月",
+    "planAssumption": "Track B ロードマップの製品仮定です。実際の価格ではなく、サブスクリプションは作成されません。",
+    "planStatus": "未契約",
+    "annualized": "年換算の定額: RM {amount}",
+    "roadmapYearOne": "ロードマップの1年目の数値: RM {amount}",
+    "amountMyr": "RM {amount}",
+    "roiTitle": "ROI ウィジェット",
+    "roiDescription": "これらの項目は、後から請求を接続するときの契約です。このスパイクでは未計測のままです。",
+    "notMeasured": "未計測",
+    "hoursSaved": "削減時間",
+    "ownerHourlyCost": "オーナーの時間単価",
+    "conversationsHandled": "対応した会話",
+    "humanEscalations": "人へのエスカレーション",
+    "channelsInUse": "利用中のチャネル",
+    "exampleTitle": "説明用の例",
+    "exampleNote": "計算例にすぎません。このワークスペースの利用量ではありません。",
+    "exampleMath": "{hours} 時間 × RM {rate}/時間 = 回避した人件費 RM {avoided} − 定額 RM {flat} = 差引 RM {net}",
+    "comparisonTitle": "ロードマップの1年目比較",
+    "comparisonNote": "Track B ロードマップから写したおおよその1年目合計です。製品仮定であり、請求書ではありません。",
+    "comparison": {
+      "tenX": "10X",
+      "manychat": "ManyChat",
+      "wati": "Wati",
+      "respondIo": "Respond.io",
+      "mampuAi": "Mampu AI"
+    }
   }
 }

@@ -6695,5 +6695,39 @@
     "openZaloGroup": "開啟 Zalo 群組",
     "openZalo": "開啟 Zalo",
     "openMessenger": "開啟 Messenger"
+  },
+  "onePersonCompany": {
+    "nav": "一人公司",
+    "title": "一人公司",
+    "description": "Community Edition 的佔位頁，用來展示固定月費與 ROI 小工具。這裡不會向任何人收費。",
+    "bannerTitle": "Track B spike / not production billing",
+    "bannerDescription": "此頁面不向任何人收費，也未連接支付處理商。數字來自 Track B 路線圖的產品假設，或標示為尚未度量。",
+    "planTitle": "固定價格",
+    "planPrice": "RM {amount} / 月",
+    "planAssumption": "來自 Track B 路線圖的產品假設。這不是生效價格，也不會建立訂閱。",
+    "planStatus": "未訂閱",
+    "annualized": "按年折算的固定價格：RM {amount}",
+    "roadmapYearOne": "路線圖第一年數字：RM {amount}",
+    "amountMyr": "RM {amount}",
+    "roiTitle": "ROI 小工具",
+    "roiDescription": "這些欄位是日後接入計費時要填入的契約。此 spike 將它們留為尚未度量。",
+    "notMeasured": "尚未度量",
+    "hoursSaved": "節省時數",
+    "ownerHourlyCost": "負責人時薪",
+    "conversationsHandled": "已處理對話",
+    "humanEscalations": "人工升級",
+    "channelsInUse": "使用中的頻道",
+    "exampleTitle": "示意範例",
+    "exampleNote": "僅為演算範例。這些數字不是此工作區的用量。",
+    "exampleMath": "{hours} 小時 × RM {rate}/小時 = 避免的人工成本 RM {avoided} − 固定價格 RM {flat} = 淨額 RM {net}",
+    "comparisonTitle": "路線圖第一年比較",
+    "comparisonNote": "從 Track B 路線圖抄錄的大約第一年總額。它們是產品假設，不是帳單。",
+    "comparison": {
+      "tenX": "10X",
+      "manychat": "ManyChat",
+      "wati": "Wati",
+      "respondIo": "Respond.io",
+      "mampuAi": "Mampu AI"
+    }
   }
 }

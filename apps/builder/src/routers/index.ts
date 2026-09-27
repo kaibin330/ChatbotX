@@ -315,4 +315,9 @@ export const router = {
       default: m.mediaLibraryAPI,
     })),
   ),
+  onePersonCompanyAPI: lazy(() =>
+    import("@/features/one-person-company/api").then((m) => ({
+      default: m.onePersonCompanyAPI,
+    })),
+  ),
 }

@@ -6695,5 +6695,39 @@
     "openZaloGroup": "פתיחת קבוצת Zalo",
     "openZalo": "פתיחת Zalo",
     "openMessenger": "פתיחת Messenger"
+  },
+  "onePersonCompany": {
+    "nav": "חברה של אדם אחד",
+    "title": "חברה של אדם אחד",
+    "description": "מציין מקום של מהדורת הקהילה למחיר חודשי קבוע וליישומוני החזר השקעה. כאן לא מחייבים אף אחד.",
+    "bannerTitle": "Track B spike / not production billing",
+    "bannerDescription": "הדף הזה לא גובה מאף אחד ואינו מחובר למעבד תשלומים. המספרים הם הנחות מוצר ממפת הדרכים של Track B, או מסומנים כלא נמדדו.",
+    "planTitle": "מחיר קבוע",
+    "planPrice": "RM {amount} / חודש",
+    "planAssumption": "הנחת מוצר ממפת הדרכים של Track B. זה אינו מחיר פעיל ולא נוצר מנוי.",
+    "planStatus": "לא מנוי",
+    "annualized": "מחיר קבוע בחישוב שנתי: RM {amount}",
+    "roadmapYearOne": "נתון שנה 1 במפת הדרכים: RM {amount}",
+    "amountMyr": "RM {amount}",
+    "roiTitle": "יישומוני החזר השקעה",
+    "roiDescription": "השדות האלה הם החוזה שחיבור חיוב עתידי ימלא. הספייק הזה משאיר אותם לא נמדדים.",
+    "notMeasured": "לא נמדד",
+    "hoursSaved": "שעות שנחסכו",
+    "ownerHourlyCost": "עלות שעתית של הבעלים",
+    "conversationsHandled": "שיחות שטופלו",
+    "humanEscalations": "הסלמות לאדם",
+    "channelsInUse": "ערוצים בשימוש",
+    "exampleTitle": "דוגמה להמחשה",
+    "exampleNote": "דוגמת חישוב בלבד. המספרים האלה אינם השימוש בסביבת העבודה הזו.",
+    "exampleMath": "{hours} שעות × RM {rate}/שעה = RM {avoided} עבודה שנחסכה − RM {flat} מחיר קבוע = RM {net} נטו",
+    "comparisonTitle": "השוואת שנה 1 במפת הדרכים",
+    "comparisonNote": "סיכומי שנה ראשונה משוערים שהועתקו ממפת הדרכים של Track B. אלה הנחות מוצר, לא חשבוניות.",
+    "comparison": {
+      "tenX": "10X",
+      "manychat": "ManyChat",
+      "wati": "Wati",
+      "respondIo": "Respond.io",
+      "mampuAi": "Mampu AI"
+    }
   }
 }

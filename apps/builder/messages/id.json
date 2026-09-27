@@ -6695,5 +6695,39 @@
     "openZaloGroup": "Buka grup Zalo",
     "openZalo": "Buka Zalo",
     "openMessenger": "Buka Messenger"
+  },
+  "onePersonCompany": {
+    "nav": "Perusahaan satu orang",
+    "title": "Perusahaan satu orang",
+    "description": "Placeholder Community Edition untuk harga bulanan tetap dan widget ROI. Tidak ada yang ditagih di sini.",
+    "bannerTitle": "Track B spike / not production billing",
+    "bannerDescription": "Halaman ini tidak menagih siapa pun dan tidak terhubung ke pemroses pembayaran. Angka-angka ini adalah asumsi produk dari peta jalan Track B, atau ditandai belum diukur.",
+    "planTitle": "Harga tetap",
+    "planPrice": "RM {amount} / bulan",
+    "planAssumption": "Asumsi produk dari peta jalan Track B. Ini bukan harga aktif dan tidak ada langganan yang dibuat.",
+    "planStatus": "Belum berlangganan",
+    "annualized": "Harga tetap disetahunkan: RM {amount}",
+    "roadmapYearOne": "Angka tahun-1 di peta jalan: RM {amount}",
+    "amountMyr": "RM {amount}",
+    "roiTitle": "Widget ROI",
+    "roiDescription": "Kolom ini adalah kontrak yang akan diisi sambungan penagihan nanti. Spike ini membiarkannya belum diukur.",
+    "notMeasured": "Belum diukur",
+    "hoursSaved": "Jam yang dihemat",
+    "ownerHourlyCost": "Biaya per jam pemilik",
+    "conversationsHandled": "Percakapan yang ditangani",
+    "humanEscalations": "Eskalasi ke manusia",
+    "channelsInUse": "Kanal yang dipakai",
+    "exampleTitle": "Contoh ilustratif",
+    "exampleNote": "Hanya contoh hitungan. Angka ini bukan pemakaian workspace ini.",
+    "exampleMath": "{hours} jam × RM {rate}/jam = RM {avoided} biaya kerja yang dihindari − RM {flat} harga tetap = RM {net} bersih",
+    "comparisonTitle": "Perbandingan tahun 1 di peta jalan",
+    "comparisonNote": "Perkiraan total tahun 1 yang disalin dari peta jalan Track B. Itu asumsi produk, bukan faktur.",
+    "comparison": {
+      "tenX": "10X",
+      "manychat": "ManyChat",
+      "wati": "Wati",
+      "respondIo": "Respond.io",
+      "mampuAi": "Mampu AI"
+    }
   }
 }
