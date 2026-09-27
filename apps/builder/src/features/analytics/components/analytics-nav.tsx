@@ -5,6 +5,7 @@ import type { AdsEligibleChannelType } from "@chatbotx.io/utils/channel"
 import Link from "next/link"
 import { usePathname } from "next/navigation"
 import { useTranslations } from "next-intl"
+import { isCommunity } from "@/env"
 import { useWorkspaceId } from "@/hooks/routing"
 
 type AnalyticsNavLink = {
@@ -36,6 +37,14 @@ export function AnalyticsNav({
   const links: AnalyticsNavLink[] = [
     { label: t("analytics.contacts"), segment: "contacts" },
     { label: t("analytics.conversations"), segment: "conversations" },
+    ...(isCommunity()
+      ? [
+          {
+            label: t("onePersonCompany.nav"),
+            segment: "one-person-company",
+          },
+        ]
+      : []),
     ...adsChannels.map((channel) => ({
       label: t(`ads.dashboardNav.${channel}`),
       segment: `ads/${channel}`,

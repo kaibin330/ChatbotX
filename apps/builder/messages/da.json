@@ -6695,5 +6695,39 @@
     "openZaloGroup": "Åbn Zalo-gruppe",
     "openZalo": "Åbn Zalo",
     "openMessenger": "Åbn Messenger"
+  },
+  "onePersonCompany": {
+    "nav": "Enkeltmandsvirksomhed",
+    "title": "Enkeltmandsvirksomhed",
+    "description": "En Community Edition-pladsholder for en fast månedspris og ROI-widgets. Der opkræves ingenting her.",
+    "bannerTitle": "Track B spike / not production billing",
+    "bannerDescription": "Denne side opkræver ingen og er ikke forbundet til en betalingsudbyder. Tallene er produktantagelser fra Track B-køreplanen eller markeret som ikke målt.",
+    "planTitle": "Fast pris",
+    "planPrice": "RM {amount} / måned",
+    "planAssumption": "Produktantagelse fra Track B-køreplanen. Det er ikke en aktiv pris, og der oprettes intet abonnement.",
+    "planStatus": "Ikke abonneret",
+    "annualized": "Fast pris omregnet til år: RM {amount}",
+    "roadmapYearOne": "År 1-tal i køreplanen: RM {amount}",
+    "amountMyr": "RM {amount}",
+    "roiTitle": "ROI-widgets",
+    "roiDescription": "Disse felter er den kontrakt, en senere faktureringstilkobling ville udfylde. Dette spike lader dem være umålte.",
+    "notMeasured": "Ikke målt",
+    "hoursSaved": "Sparede timer",
+    "ownerHourlyCost": "Ejerens timepris",
+    "conversationsHandled": "Håndterede samtaler",
+    "humanEscalations": "Menneskelige eskaleringer",
+    "channelsInUse": "Kanaler i brug",
+    "exampleTitle": "Illustrativt eksempel",
+    "exampleNote": "Kun et regneeksempel. Tallene er ikke dette arbejdsområdes forbrug.",
+    "exampleMath": "{hours} timer × RM {rate}/time = RM {avoided} undgået arbejde − RM {flat} fast pris = RM {net} netto",
+    "comparisonTitle": "Køreplanens år 1-sammenligning",
+    "comparisonNote": "Omtrentlige år 1-totaler kopieret fra Track B-køreplanen. De er produktantagelser, ikke fakturaer.",
+    "comparison": {
+      "tenX": "10X",
+      "manychat": "ManyChat",
+      "wati": "Wati",
+      "respondIo": "Respond.io",
+      "mampuAi": "Mampu AI"
+    }
   }
 }

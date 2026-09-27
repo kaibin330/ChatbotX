@@ -6695,5 +6695,39 @@
     "openZaloGroup": "Open Zalo group",
     "openZalo": "Open Zalo",
     "openMessenger": "Open Messenger"
+  },
+  "onePersonCompany": {
+    "nav": "One-person company",
+    "title": "One-person company",
+    "description": "A Community Edition placeholder for a flat monthly plan and ROI widgets. Nothing here is billed.",
+    "bannerTitle": "Track B spike / not production billing",
+    "bannerDescription": "This page does not charge anyone and is not connected to a payment processor. Figures are product assumptions from the Track B roadmap, or marked as not measured.",
+    "planTitle": "Flat price",
+    "planPrice": "RM {amount} / month",
+    "planAssumption": "Product assumption from the Track B roadmap. This is not a live price and no subscription is created.",
+    "planStatus": "Not subscribed",
+    "annualized": "Annualized flat price: RM {amount}",
+    "roadmapYearOne": "Roadmap year-1 figure: RM {amount}",
+    "amountMyr": "RM {amount}",
+    "roiTitle": "ROI widgets",
+    "roiDescription": "These fields are the contract a later billing wire-up would fill. This spike leaves them unmeasured.",
+    "notMeasured": "Not measured",
+    "hoursSaved": "Hours saved",
+    "ownerHourlyCost": "Owner hourly cost",
+    "conversationsHandled": "Conversations handled",
+    "humanEscalations": "Human escalations",
+    "channelsInUse": "Channels in use",
+    "exampleTitle": "Illustrative example",
+    "exampleNote": "Worked example only. These numbers are not this workspace's usage.",
+    "exampleMath": "{hours} hours × RM {rate}/hour = RM {avoided} labor avoided − RM {flat} flat price = RM {net} net",
+    "comparisonTitle": "Roadmap year-1 comparison",
+    "comparisonNote": "Approximate year-1 totals copied from the Track B roadmap. They are product assumptions, not invoices.",
+    "comparison": {
+      "tenX": "10X",
+      "manychat": "ManyChat",
+      "wati": "Wati",
+      "respondIo": "Respond.io",
+      "mampuAi": "Mampu AI"
+    }
   }
 }

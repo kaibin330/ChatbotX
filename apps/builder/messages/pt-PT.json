@@ -6695,5 +6695,39 @@
     "openZaloGroup": "Abrir grupo do Zalo",
     "openZalo": "Abrir Zalo",
     "openMessenger": "Abrir Messenger"
+  },
+  "onePersonCompany": {
+    "nav": "Empresa unipessoal",
+    "title": "Empresa unipessoal",
+    "description": "Um marcador de posição da Community Edition para um preço mensal fixo e widgets de ROI. Nada disto é cobrado.",
+    "bannerTitle": "Track B spike / not production billing",
+    "bannerDescription": "Esta página não cobra ninguém e não está ligada a um processador de pagamentos. Os valores são pressupostos de produto do roteiro da Track B ou estão marcados como não medidos.",
+    "planTitle": "Preço fixo",
+    "planPrice": "RM {amount} / mês",
+    "planAssumption": "Pressuposto de produto do roteiro da Track B. Não é um preço em produção e não é criada nenhuma subscrição.",
+    "planStatus": "Sem subscrição",
+    "annualized": "Preço fixo anualizado: RM {amount}",
+    "roadmapYearOne": "Valor do ano 1 no roteiro: RM {amount}",
+    "amountMyr": "RM {amount}",
+    "roiTitle": "Widgets de ROI",
+    "roiDescription": "Estes campos são o contrato que uma ligação de faturação futura preencheria. Este spike deixa-os por medir.",
+    "notMeasured": "Não medido",
+    "hoursSaved": "Horas poupadas",
+    "ownerHourlyCost": "Custo horário do proprietário",
+    "conversationsHandled": "Conversas tratadas",
+    "humanEscalations": "Escalonamentos humanos",
+    "channelsInUse": "Canais em uso",
+    "exampleTitle": "Exemplo ilustrativo",
+    "exampleNote": "Apenas um exemplo de cálculo. Estes números não são a utilização deste espaço de trabalho.",
+    "exampleMath": "{hours} horas × RM {rate}/hora = RM {avoided} de trabalho evitado − RM {flat} de preço fixo = RM {net} líquido",
+    "comparisonTitle": "Comparação do ano 1 no roteiro",
+    "comparisonNote": "Totais aproximados do ano 1 copiados do roteiro da Track B. São pressupostos de produto, não faturas.",
+    "comparison": {
+      "tenX": "10X",
+      "manychat": "ManyChat",
+      "wati": "Wati",
+      "respondIo": "Respond.io",
+      "mampuAi": "Mampu AI"
+    }
   }
 }

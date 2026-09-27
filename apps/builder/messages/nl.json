@@ -6695,5 +6695,39 @@
     "openZaloGroup": "Zalo-groep openen",
     "openZalo": "Zalo openen",
     "openMessenger": "Messenger openen"
+  },
+  "onePersonCompany": {
+    "nav": "Eenmanszaak",
+    "title": "Eenmanszaak",
+    "description": "Een Community Edition-placeholder voor een vast maandbedrag en ROI-widgets. Hier wordt niets gefactureerd.",
+    "bannerTitle": "Track B spike / not production billing",
+    "bannerDescription": "Deze pagina brengt niemand iets in rekening en is niet gekoppeld aan een betaalprovider. Cijfers zijn productaannames uit de Track B-roadmap of gemarkeerd als niet gemeten.",
+    "planTitle": "Vaste prijs",
+    "planPrice": "RM {amount} / maand",
+    "planAssumption": "Productaanname uit de Track B-roadmap. Dit is geen live prijs en er wordt geen abonnement aangemaakt.",
+    "planStatus": "Niet geabonneerd",
+    "annualized": "Vaste prijs op jaarbasis: RM {amount}",
+    "roadmapYearOne": "Roadmap-jaar-1-cijfer: RM {amount}",
+    "amountMyr": "RM {amount}",
+    "roiTitle": "ROI-widgets",
+    "roiDescription": "Deze velden zijn het contract dat een latere facturatiekoppeling zou vullen. Deze spike laat ze ongemeten.",
+    "notMeasured": "Niet gemeten",
+    "hoursSaved": "Bespaarde uren",
+    "ownerHourlyCost": "Uurloon van de eigenaar",
+    "conversationsHandled": "Afgehandelde gesprekken",
+    "humanEscalations": "Menselijke escalaties",
+    "channelsInUse": "Kanalen in gebruik",
+    "exampleTitle": "Illustratief voorbeeld",
+    "exampleNote": "Alleen een rekenvoorbeeld. Deze cijfers zijn niet het gebruik van deze werkruimte.",
+    "exampleMath": "{hours} uur × RM {rate}/uur = RM {avoided} vermeden arbeid − RM {flat} vaste prijs = RM {net} netto",
+    "comparisonTitle": "Roadmap-vergelijking jaar 1",
+    "comparisonNote": "Geschatte jaartotalen overgenomen uit de Track B-roadmap. Het zijn productaannames, geen facturen.",
+    "comparison": {
+      "tenX": "10X",
+      "manychat": "ManyChat",
+      "wati": "Wati",
+      "respondIo": "Respond.io",
+      "mampuAi": "Mampu AI"
+    }
   }
 }

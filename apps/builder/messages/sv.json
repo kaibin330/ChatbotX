@@ -6695,5 +6695,39 @@
     "openZaloGroup": "Öppna Zalo-grupp",
     "openZalo": "Öppna Zalo",
     "openMessenger": "Öppna Messenger"
+  },
+  "onePersonCompany": {
+    "nav": "Enpersonsföretag",
+    "title": "Enpersonsföretag",
+    "description": "En platshållare i Community Edition för ett fast månadspris och ROI-widgetar. Ingenting debiteras här.",
+    "bannerTitle": "Track B spike / not production billing",
+    "bannerDescription": "Den här sidan debiterar ingen och är inte kopplad till en betalningsleverantör. Siffrorna är produktantaganden från Track B-färdplanen eller markerade som inte mätta.",
+    "planTitle": "Fast pris",
+    "planPrice": "RM {amount} / månad",
+    "planAssumption": "Produktantagande från Track B-färdplanen. Det är inget aktivt pris och ingen prenumeration skapas.",
+    "planStatus": "Inte prenumerant",
+    "annualized": "Fast pris på årsbasis: RM {amount}",
+    "roadmapYearOne": "År 1-siffra i färdplanen: RM {amount}",
+    "amountMyr": "RM {amount}",
+    "roiTitle": "ROI-widgetar",
+    "roiDescription": "De här fälten är kontraktet som en senare fakturakoppling skulle fylla. Den här spiken lämnar dem omätta.",
+    "notMeasured": "Inte mätt",
+    "hoursSaved": "Sparade timmar",
+    "ownerHourlyCost": "Ägarens timkostnad",
+    "conversationsHandled": "Hanterade konversationer",
+    "humanEscalations": "Mänskliga eskaleringar",
+    "channelsInUse": "Kanaler i bruk",
+    "exampleTitle": "Illustrativt exempel",
+    "exampleNote": "Bara ett räkneexempel. Siffrorna är inte den här arbetsytans användning.",
+    "exampleMath": "{hours} timmar × RM {rate}/timme = RM {avoided} undviket arbete − RM {flat} fast pris = RM {net} netto",
+    "comparisonTitle": "Färdplanens år 1-jämförelse",
+    "comparisonNote": "Ungefärliga år 1-summor kopierade från Track B-färdplanen. De är produktantaganden, inte fakturor.",
+    "comparison": {
+      "tenX": "10X",
+      "manychat": "ManyChat",
+      "wati": "Wati",
+      "respondIo": "Respond.io",
+      "mampuAi": "Mampu AI"
+    }
   }
 }

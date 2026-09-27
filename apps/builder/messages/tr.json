@@ -6695,5 +6695,39 @@
     "openZaloGroup": "Zalo grubunu aç",
     "openZalo": "Zalo'yu aç",
     "openMessenger": "Messenger'ı aç"
+  },
+  "onePersonCompany": {
+    "nav": "Tek kişilik şirket",
+    "title": "Tek kişilik şirket",
+    "description": "Sabit aylık fiyat ve ROI bileşenleri için bir Community Edition yer tutucusu. Burada kimseye ücret yansıtılmaz.",
+    "bannerTitle": "Track B spike / not production billing",
+    "bannerDescription": "Bu sayfa kimseden ücret almaz ve bir ödeme işlemcisine bağlı değildir. Rakamlar Track B yol haritasındaki ürün varsayımlarıdır veya ölçülmedi olarak işaretlenmiştir.",
+    "planTitle": "Sabit fiyat",
+    "planPrice": "RM {amount} / ay",
+    "planAssumption": "Track B yol haritasından ürün varsayımı. Bu canlı bir fiyat değildir ve abonelik oluşturulmaz.",
+    "planStatus": "Abone değil",
+    "annualized": "Yıllıklandırılmış sabit fiyat: RM {amount}",
+    "roadmapYearOne": "Yol haritası 1. yıl rakamı: RM {amount}",
+    "amountMyr": "RM {amount}",
+    "roiTitle": "ROI bileşenleri",
+    "roiDescription": "Bu alanlar, sonraki bir faturalama bağlantısının dolduracağı sözleşmedir. Bu spike onları ölçülmemiş bırakır.",
+    "notMeasured": "Ölçülmedi",
+    "hoursSaved": "Kazanılan saat",
+    "ownerHourlyCost": "Sahibin saatlik maliyeti",
+    "conversationsHandled": "Ele alınan konuşmalar",
+    "humanEscalations": "İnsan yükseltmeleri",
+    "channelsInUse": "Kullanılan kanallar",
+    "exampleTitle": "Örnek hesap",
+    "exampleNote": "Yalnızca örnek bir hesap. Bu sayılar bu çalışma alanının kullanımı değildir.",
+    "exampleMath": "{hours} saat × RM {rate}/saat = RM {avoided} kaçınılan işçilik − RM {flat} sabit fiyat = RM {net} net",
+    "comparisonTitle": "Yol haritası 1. yıl karşılaştırması",
+    "comparisonNote": "Track B yol haritasından kopyalanan yaklaşık 1. yıl toplamları. Ürün varsayımıdır, fatura değildir.",
+    "comparison": {
+      "tenX": "10X",
+      "manychat": "ManyChat",
+      "wati": "Wati",
+      "respondIo": "Respond.io",
+      "mampuAi": "Mampu AI"
+    }
   }
 }

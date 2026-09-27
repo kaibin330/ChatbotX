@@ -6695,5 +6695,39 @@
     "openZaloGroup": "فتح مجموعة Zalo",
     "openZalo": "فتح Zalo",
     "openMessenger": "فتح Messenger"
+  },
+  "onePersonCompany": {
+    "nav": "شركة شخص واحد",
+    "title": "شركة شخص واحد",
+    "description": "عنصر نائب في إصدار المجتمع لسعر شهري ثابت وعناصر عائد الاستثمار. لا تُحصَّل أي رسوم هنا.",
+    "bannerTitle": "Track B spike / not production billing",
+    "bannerDescription": "هذه الصفحة لا تحصّل رسومًا من أحد وليست متصلة بمعالج دفع. الأرقام افتراضات منتج من خارطة طريق Track B أو معلّمة على أنها غير مقيسة.",
+    "planTitle": "سعر ثابت",
+    "planPrice": "RM {amount} / شهر",
+    "planAssumption": "افتراض منتج من خارطة طريق Track B. هذا ليس سعرًا فعليًا ولا يُنشأ اشتراك.",
+    "planStatus": "غير مشترك",
+    "annualized": "السعر الثابت محسوبًا سنويًا: RM {amount}",
+    "roadmapYearOne": "رقم السنة الأولى في الخارطة: RM {amount}",
+    "amountMyr": "RM {amount}",
+    "roiTitle": "عناصر عائد الاستثمار",
+    "roiDescription": "هذه الحقول هي العقد الذي سيملؤه ربط الفوترة لاحقًا. هذا النموذج يبقيها غير مقيسة.",
+    "notMeasured": "غير مقيس",
+    "hoursSaved": "الساعات الموفرة",
+    "ownerHourlyCost": "تكلفة ساعة المالك",
+    "conversationsHandled": "المحادثات المعالجة",
+    "humanEscalations": "التصعيد البشري",
+    "channelsInUse": "القنوات المستخدمة",
+    "exampleTitle": "مثال توضيحي",
+    "exampleNote": "مثال حسابي فقط. هذه الأرقام ليست استخدام مساحة العمل هذه.",
+    "exampleMath": "{hours} ساعة × RM {rate}/ساعة = RM {avoided} عمل تم تجنبه − RM {flat} سعر ثابت = RM {net} صافٍ",
+    "comparisonTitle": "مقارنة السنة الأولى في الخارطة",
+    "comparisonNote": "إجماليات تقريبية للسنة الأولى منسوخة من خارطة طريق Track B. هي افتراضات منتج وليست فواتير.",
+    "comparison": {
+      "tenX": "10X",
+      "manychat": "ManyChat",
+      "wati": "Wati",
+      "respondIo": "Respond.io",
+      "mampuAi": "Mampu AI"
+    }
   }
 }

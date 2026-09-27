@@ -6695,5 +6695,39 @@
     "openZaloGroup": "Deschide grupul Zalo",
     "openZalo": "Deschide Zalo",
     "openMessenger": "Deschide Messenger"
+  },
+  "onePersonCompany": {
+    "nav": "Companie de o persoană",
+    "title": "Companie de o persoană",
+    "description": "Un substituent Community Edition pentru un preț lunar fix și widgeturi ROI. Aici nu se percepe nimic.",
+    "bannerTitle": "Track B spike / not production billing",
+    "bannerDescription": "Această pagină nu percepe nimănui o plată și nu este conectată la un procesator de plăți. Cifrele sunt ipoteze de produs din foaia de parcurs Track B sau sunt marcate ca nemăsurate.",
+    "planTitle": "Preț fix",
+    "planPrice": "RM {amount} / lună",
+    "planAssumption": "Ipoteză de produs din foaia de parcurs Track B. Nu este un preț activ și nu se creează niciun abonament.",
+    "planStatus": "Neabonat",
+    "annualized": "Preț fix anualizat: RM {amount}",
+    "roadmapYearOne": "Cifra anului 1 din foaia de parcurs: RM {amount}",
+    "amountMyr": "RM {amount}",
+    "roiTitle": "Widgeturi ROI",
+    "roiDescription": "Aceste câmpuri sunt contractul pe care o conectare ulterioară de facturare l-ar completa. Acest spike le lasă nemăsurate.",
+    "notMeasured": "Nemăsurat",
+    "hoursSaved": "Ore economisite",
+    "ownerHourlyCost": "Costul orar al proprietarului",
+    "conversationsHandled": "Conversații gestionate",
+    "humanEscalations": "Escaladări umane",
+    "channelsInUse": "Canale în uz",
+    "exampleTitle": "Exemplu ilustrativ",
+    "exampleNote": "Doar un exemplu de calcul. Aceste cifre nu sunt utilizarea acestui spațiu de lucru.",
+    "exampleMath": "{hours} ore × RM {rate}/oră = RM {avoided} muncă evitată − RM {flat} preț fix = RM {net} net",
+    "comparisonTitle": "Comparație anul 1 din foaia de parcurs",
+    "comparisonNote": "Totaluri aproximative pentru anul 1 copiate din foaia de parcurs Track B. Sunt ipoteze de produs, nu facturi.",
+    "comparison": {
+      "tenX": "10X",
+      "manychat": "ManyChat",
+      "wati": "Wati",
+      "respondIo": "Respond.io",
+      "mampuAi": "Mampu AI"
+    }
   }
 }

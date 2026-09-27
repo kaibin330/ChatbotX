@@ -6695,5 +6695,39 @@
     "openZaloGroup": "Abrir grupo de Zalo",
     "openZalo": "Abrir Zalo",
     "openMessenger": "Abrir Messenger"
+  },
+  "onePersonCompany": {
+    "nav": "Empresa unipersonal",
+    "title": "Empresa unipersonal",
+    "description": "Un marcador de posición de Community Edition para un precio mensual fijo y widgets de ROI. Aquí no se cobra nada.",
+    "bannerTitle": "Track B spike / not production billing",
+    "bannerDescription": "Esta página no cobra a nadie y no está conectada a un procesador de pagos. Las cifras son supuestos de producto de la hoja de ruta de Track B, o están marcadas como no medidas.",
+    "planTitle": "Precio fijo",
+    "planPrice": "RM {amount} / mes",
+    "planAssumption": "Supuesto de producto de la hoja de ruta de Track B. No es un precio en vivo y no se crea ninguna suscripción.",
+    "planStatus": "Sin suscripción",
+    "annualized": "Precio fijo anualizado: RM {amount}",
+    "roadmapYearOne": "Cifra del año 1 en la hoja de ruta: RM {amount}",
+    "amountMyr": "RM {amount}",
+    "roiTitle": "Widgets de ROI",
+    "roiDescription": "Estos campos son el contrato que rellenaría una conexión de facturación posterior. Este spike los deja sin medir.",
+    "notMeasured": "No medido",
+    "hoursSaved": "Horas ahorradas",
+    "ownerHourlyCost": "Coste por hora del propietario",
+    "conversationsHandled": "Conversaciones atendidas",
+    "humanEscalations": "Escalados a personas",
+    "channelsInUse": "Canales en uso",
+    "exampleTitle": "Ejemplo ilustrativo",
+    "exampleNote": "Solo un ejemplo de cálculo. Estas cifras no son el uso de este espacio de trabajo.",
+    "exampleMath": "{hours} horas × RM {rate}/hora = RM {avoided} de trabajo evitado − RM {flat} de precio fijo = RM {net} neto",
+    "comparisonTitle": "Comparación del año 1 en la hoja de ruta",
+    "comparisonNote": "Totales aproximados del año 1 copiados de la hoja de ruta de Track B. Son supuestos de producto, no facturas.",
+    "comparison": {
+      "tenX": "10X",
+      "manychat": "ManyChat",
+      "wati": "Wati",
+      "respondIo": "Respond.io",
+      "mampuAi": "Mampu AI"
+    }
   }
 }

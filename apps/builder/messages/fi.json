@@ -6695,5 +6695,39 @@
     "openZaloGroup": "Avaa Zalo-ryhmä",
     "openZalo": "Avaa Zalo",
     "openMessenger": "Avaa Messenger"
+  },
+  "onePersonCompany": {
+    "nav": "Yhden hengen yritys",
+    "title": "Yhden hengen yritys",
+    "description": "Community Edition -paikkamerkki kiinteälle kuukausihinnalle ja ROI-widgeteille. Täällä ei veloiteta ketään.",
+    "bannerTitle": "Track B spike / not production billing",
+    "bannerDescription": "Tämä sivu ei veloita ketään eikä ole yhteydessä maksupalveluun. Luvut ovat Track B -tiekartan tuoteoletuksia tai merkitty mittaamattomiksi.",
+    "planTitle": "Kiinteä hinta",
+    "planPrice": "RM {amount} / kk",
+    "planAssumption": "Tuoteoletus Track B -tiekartasta. Tämä ei ole käytössä oleva hinta, eikä tilausta luoda.",
+    "planStatus": "Ei tilausta",
+    "annualized": "Kiinteä hinta vuositasolla: RM {amount}",
+    "roadmapYearOne": "Tiekartan 1. vuoden luku: RM {amount}",
+    "amountMyr": "RM {amount}",
+    "roiTitle": "ROI-widgetit",
+    "roiDescription": "Nämä kentät ovat sopimus, jonka myöhempi laskutusliitos täyttäisi. Tämä spike jättää ne mittaamatta.",
+    "notMeasured": "Ei mitattu",
+    "hoursSaved": "Säästetyt tunnit",
+    "ownerHourlyCost": "Omistajan tuntikustannus",
+    "conversationsHandled": "Käsitellyt keskustelut",
+    "humanEscalations": "Ihmiselle siirretyt",
+    "channelsInUse": "Käytössä olevat kanavat",
+    "exampleTitle": "Havainnollistava esimerkki",
+    "exampleNote": "Vain laskuesimerkki. Nämä luvut eivät ole tämän työtilan käyttöä.",
+    "exampleMath": "{hours} tuntia × RM {rate}/tunti = RM {avoided} vältettyä työtä − RM {flat} kiinteä hinta = RM {net} netto",
+    "comparisonTitle": "Tiekartan 1. vuoden vertailu",
+    "comparisonNote": "Likimääräiset 1. vuoden summat Track B -tiekartasta. Ne ovat tuoteoletuksia, eivät laskuja.",
+    "comparison": {
+      "tenX": "10X",
+      "manychat": "ManyChat",
+      "wati": "Wati",
+      "respondIo": "Respond.io",
+      "mampuAi": "Mampu AI"
+    }
   }
 }

@@ -6695,5 +6695,39 @@
     "openZaloGroup": "Abrir grupo do Zalo",
     "openZalo": "Abrir Zalo",
     "openMessenger": "Abrir Messenger"
+  },
+  "onePersonCompany": {
+    "nav": "Empresa de uma pessoa",
+    "title": "Empresa de uma pessoa",
+    "description": "Um placeholder da Community Edition para um preço mensal fixo e widgets de ROI. Nada aqui é cobrado.",
+    "bannerTitle": "Track B spike / not production billing",
+    "bannerDescription": "Esta página não cobra ninguém e não está ligada a um processador de pagamentos. Os números são premissas de produto do roadmap da Track B ou estão marcados como não medidos.",
+    "planTitle": "Preço fixo",
+    "planPrice": "RM {amount} / mês",
+    "planAssumption": "Premissa de produto do roadmap da Track B. Não é um preço ativo e nenhuma assinatura é criada.",
+    "planStatus": "Sem assinatura",
+    "annualized": "Preço fixo anualizado: RM {amount}",
+    "roadmapYearOne": "Valor do ano 1 no roadmap: RM {amount}",
+    "amountMyr": "RM {amount}",
+    "roiTitle": "Widgets de ROI",
+    "roiDescription": "Estes campos são o contrato que uma integração de cobrança futura preencheria. Este spike os deixa sem medição.",
+    "notMeasured": "Não medido",
+    "hoursSaved": "Horas economizadas",
+    "ownerHourlyCost": "Custo horário do proprietário",
+    "conversationsHandled": "Conversas atendidas",
+    "humanEscalations": "Escalonamentos humanos",
+    "channelsInUse": "Canais em uso",
+    "exampleTitle": "Exemplo ilustrativo",
+    "exampleNote": "Apenas um exemplo de cálculo. Estes números não são o uso deste workspace.",
+    "exampleMath": "{hours} horas × RM {rate}/hora = RM {avoided} de trabalho evitado − RM {flat} de preço fixo = RM {net} líquido",
+    "comparisonTitle": "Comparação do ano 1 no roadmap",
+    "comparisonNote": "Totais aproximados do ano 1 copiados do roadmap da Track B. São premissas de produto, não faturas.",
+    "comparison": {
+      "tenX": "10X",
+      "manychat": "ManyChat",
+      "wati": "Wati",
+      "respondIo": "Respond.io",
+      "mampuAi": "Mampu AI"
+    }
   }
 }
